@@ -18,7 +18,7 @@ COPY . .
 
 # Expose the port that your app is running on.
 # Make sure to replace "8000" with the actual port your app listens on.
-EXPOSE 8000
+EXPOSE 5000
 
 # Set any environment variables your app needs.
 # For example, you might want to set a production environment variable.
